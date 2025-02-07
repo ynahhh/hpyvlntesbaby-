@@ -1,7 +1,16 @@
-# Just a meme website. 
-- View Live: [Click Here](https://aayush-683.github.io/will-you-be-my-valentine/)
+# valentines
+A simple valentine day card made using flipbook.
 
-# Contributions
-- A french & thai version of the above have been added to the site. Use the language selecter :D
-- All thanks to [YidirK](https://github.com/YidirK) for the french translation.
-- All thanks to [RayeMilk](https://github.com/RayeMilk) for the thai translation.
+<a href="https://mrepol742.github.io">
+<img src="https://github.com/mrepol742/valentines/blob/master/valentines.gif?raw=true" alt="Valentines Day" />
+  </a>
+
+ 
+  ## HTTP Server
+  python3 -m http.server
+  
+  ## Load the webpage
+  http://0.0.0.0:8000/
+  
+  ## Live
+  https://mrepol742.github.io/valentines/
